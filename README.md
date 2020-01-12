@@ -1,7 +1,7 @@
 ![Mount](images/dummies.jpg)
 
 ## Just copy it to microSD. Thats all.
-You no need to: use any GCode command, know Marlin, Compile or edit any code, plug and manage printer by computer via usb or octoprint - you don't need to be advanced or expirienced with all above user.   
+You no need to: use any GCode command, know Marlin, Compile or edit any code, manage printer by computer - you don't need to be interested in all above at all to be able to use Automatic Bed Leveling.   
 Included "firmware.bin" file is a firmware,  
 Instant firmware Marlin 2.0bugfix binary for those, who upgraded Ender 3 with:
 - [SKR MINI E3 v1.2](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V1.2/BTT%20SKR%20MINI%20E3%20V1.2manual.pdf) motherboard, in which BLTouch is plugged INSTEAD of Z-stop (in "Z-stop" socket, not in "probe" socket) 
