@@ -28,7 +28,9 @@ To check it:
 - Ender will start lower Z-Axis (hot end will stard move down)  
 - BLTouch will turn on small blue led instead of red glow, and deploy sensing probe down
 
-NOW STOP IT WITH YOUR FIGER TOUCHING BLTOUCH SENSING PROBE FROM THE BOTTOM 
+NOW STOP IT WITH YOUR FIGER TOUCHING BLTOUCH SENSING PROBE FROM THE BOTTOM  
+
+(If it doesn't stop - TURN OFF printer as fast as you can - don't try next time! It means something is wrong - maybe wiring, maybe firmware is not suitable for your hardware configuraiotn - who knows? Restore your hardware as it was before, and install original firmware for SKR MINI E3 v1.2 aviable on Github un Manufacturer's repo) 
 
 - Z-axis should stop, and BLTouch will do precise measurement by moving Z-axis up about 10mm and start to travel down again - then 
 
