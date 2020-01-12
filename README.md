@@ -1,8 +1,18 @@
-## Just copy it to microSD and that's it 
-Ready to use Binary for BLTouch upgrade for Ender 3
+## Just copy it to microSD. Thats all. 
+Instant firmware binary for those, who upgraded Ender 3 with:
+- SKR MINI E3 v1.2 motherboard
+- BLtouch v3.1 (genuine) mounted with popular 3d print from thingiverse [mount (https://www.thingiverse.com/thing:3003725)
 
-### Installing the BLTouch
-I used a mount that came with the BLTouch. But there are many printable mounts on Thingiverse.
+
+So, you installed SKR MINI E3 v1.2 and after a few weeks of completely silent printing, you are confident enough to resolve socond major E3 minus - hopelessly wavy and unstable heatbed. ORIGINAL BLtouch is just mounted, connected and glowing red very promising.    
+
+
+1.Copy file firmware.bin to microSD card
+2.Turn OFF Ender 3 and stick card into slot
+3.Turn ON Ender 3 - it will upgrade firmware by itself, nothing to select or confirm for user
+4.Take microSD and put it into PC, if file extension is changed by printer to firmware.cur, it means that 
+this binary file is your CURrent firmware, already uploaded by Ender 3 into its mainboard.
+
 
 ![Mount](Images/mount.jpeg)
 
