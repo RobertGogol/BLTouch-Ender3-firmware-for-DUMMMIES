@@ -10,18 +10,18 @@ Included within this repository binary file "firmware.bin" is all you need, this
 - [BLtouch v3.1](https://www.antclabs.com) (genuine) mounted with popular 3d printed [mount](https://www.thingiverse.com/thing:3003725) from thingiverse, or my [simplification](https://www.thingiverse.com/thing:4097908) of it.
 
 
-1.Copy file firmware.bin to microSD card  
-2.Turn OFF Ender3 and stick card into slot  
-3.Turn ON Ender3 - it will upgrade firmware by itself, nothing to select or confirm by user  
-4.Remove microSD card from Ender3 and put it into PC. If file extension is changed by printer from "firmware.bin" to "firmware.cur", it means that this binary file is your CURrent firmware, already uploaded by Ender 3 into its mainboard.
+1. Copy file firmware.bin to microSD card  
+2. Turn OFF Ender3 and stick card into slot  
+3. Turn ON Ender3 - it will upgrade firmware by itself, nothing to select or confirm by user  
+4. Remove microSD card from Ender3 and put it into PC. If file extension is changed by printer from "firmware.bin" to "firmware.cur", it means that this binary file is your CURrent firmware, already uploaded by Ender 3 into its mainboard.
 
 THATS ALL
 
 Next proceed as follows:  
 WARNING!!!!!!! Before anything, check if your BL touch is able to stop Z-AXIS instead of standard switch=Z-STOP!!!!
 To check it:  
-1.Do MOVE Z-AXIS something about 15cm (150mm) above the bed  
-2.Select AUTO HOME - after reseting X and Y axis, and traveling carriage above the middle of heated bed:  
+1. Do MOVE Z-AXIS something about 15cm (150mm) above the bed  
+2. Select AUTO HOME - after reseting X and Y axis, and traveling carriage above the middle of heated bed:  
 - Ender will start lower Z-Axis (hot end will stard move down)  
 - BLTouch will turn on small blue led instead of red glow, and deploy sensing probe down
 
@@ -34,10 +34,13 @@ AGAIN STOP IT WITH YOUR FINGER!
 And Z-Axis should STOP. 
 If you are able to stop z-axis movement with BLTouch and your finger - it means everything works ok, now take hex key and lover down original Z-Stop to the minimu - you don't need it any more :) 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 OK, now you are ready for Z-OFFSET calibration procedure - which is the last step before enjoying  
 AUTOMATIC BED LEVELING with BL TOUCH
+
+Do what's shown in this video after 20 mins 24 sec: 
+https://youtu.be/dRgWrepDUBE?t=1204
  
 
 
