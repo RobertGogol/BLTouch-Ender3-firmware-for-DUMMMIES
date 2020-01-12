@@ -50,6 +50,7 @@ Do what's shown in this video after 20 mins 24 sec:
 https://youtu.be/dRgWrepDUBE?t=1204
 
 ENJOY :D
+AND HAPPY 3D PRINTING!
 
 And for the end, thats how BLTouch is mounted on my Ender3 - this blue part is linked at the beginning - and all probe to nozzle offsets are set for this configuration. You can ignore washers between BLT and mount part.  
 ![Mount](images/IMG_2439(1).jpg)
