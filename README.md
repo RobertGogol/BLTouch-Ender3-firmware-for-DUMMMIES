@@ -9,7 +9,9 @@ No computer needed to setup anything.
 Firmware is configured to do BILINEAR ABL with 3x3 grid, with one-time measurement (faster)
 
 Included within this repository binary file "firmware.bin" is all you need, this is edited (thats how BLtouch is always activated and configured) firmware Marlin 2.0bugfix binary for those, who upgraded Ender 3 with:
-- [SKR MINI E3 v1.2](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V1.2/BTT%20SKR%20MINI%20E3%20V1.2manual.pdf) motherboard, in which BLTouch is plugged INSTEAD of Z-stop (in "Z-stop" socket, not in "probe" socket) 
+- [SKR MINI E3 v1.2](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V1.2/BTT%20SKR%20MINI%20E3%20V1.2manual.pdf) motherboard, in which BLTouch is plugged INSTEAD of Z-stop (in "Z-stop" socket, not in "probe" socket) wired as shown below:
+![Mount](images/wiring.jpg)  
+
 - [BLtouch v3.1](https://www.antclabs.com) (genuine) mounted with popular 3d printed [mount](https://www.thingiverse.com/thing:3003725) from thingiverse, or my [simplification](https://www.thingiverse.com/thing:4097908) of it.
 
 
