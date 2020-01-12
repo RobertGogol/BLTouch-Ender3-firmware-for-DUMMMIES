@@ -39,7 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 OK, now you are ready for Z-OFFSET calibration procedure - which is the last step before enjoying  
 AUTOMATIC BED LEVELING with BL TOUCH
 
-Do what's shown in this video after 20 mins 24 sec: 
+Do what's shown in this video after 20 mins 24 sec:  
 https://youtu.be/dRgWrepDUBE?t=1204
  
 
