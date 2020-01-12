@@ -1,6 +1,6 @@
 ## Just copy it to microSD. Thats all. 
 Instant firmware binary for those, who upgraded Ender 3 with:
-- SKR MINI E3 v1.2 motherboard
+- SKR MINI E3 v1.2 motherboard, in which BLTouch is plugged in INSTEAD of Z-stop (in "Z-stop" socket, not in "probe" socket) 
 - BLtouch v3.1 (genuine) mounted with popular 3d printed [mount](https://www.thingiverse.com/thing:3003725) from thingiverse, or my [simplification](https://www.thingiverse.com/thing:4097908) of it.
 
 
