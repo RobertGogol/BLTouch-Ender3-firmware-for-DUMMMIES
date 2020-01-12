@@ -28,8 +28,14 @@ To check it:
 2.Select AUTO HOME - after reseting X and Y Axes, and traveling carriage above the middle of heated bed:
 - Ender will start lower Z-Axis (hot end will stard move down) 
 - BLTouch will turn on small blue led instead of red glow, and deploy sensing probe down
-NOW STOP IT WITH YOUR FIGER TOUCHING BLTOUCH SENSING PROBE FROM THE BOTTOM - Z-axis should stop, and BLTouch will do precise measurement by moving Z-axis up about 10mm and start to ravel down again - then AGAIN STOP IT WITH YOUR FINGER! 
-And it Z-Axis should STOP
+
+NOW STOP IT WITH YOUR FIGER TOUCHING BLTOUCH SENSING PROBE FROM THE BOTTOM 
+
+- Z-axis should stop, and BLTouch will do precise measurement by moving Z-axis up about 10mm and start to ravel down again - then 
+
+AGAIN STOP IT WITH YOUR FINGER! 
+
+And it Z-Axis should STOP. 
  
 
 
