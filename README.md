@@ -18,5 +18,16 @@ Included within this repository binary file "firmware.bin" is all you need, this
 
 THATS ALL
 
+Next proceed as follows:
+WARNING!!!!!!! Before anything, check if your BL touch is able to stop Z-AXIS instead of standard switch=Z-STOP!!!!
+To check it:
+1.Do MOVE Z-AXIS something about 15cm (150mm) above the bed
+2.Select AUTO HOME - after reseting X and Y Axes, and traveling carriage above the middle of heated bed:
+- Ender will start lower Z-Axis (hot end will stard move down) 
+- BLTouch will turn on small blue led instead of red glow, and deploy sensing probe down
+NOW STOP IT WITH YOUR FIGER TOUCHING BLTOUCH SENSING PROBE FROM THE BOTTOM - Z-axis should stop, and BLTouch will do precise measurement by moving Z-axis up about 10mm and start to ravel down again - then AGAIN STOP IT WITH YOUR FINGER! 
+And it Z-Axis should STOP
+ 
+
 
 
