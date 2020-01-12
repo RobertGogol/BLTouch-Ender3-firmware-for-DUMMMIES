@@ -1,5 +1,6 @@
-# Ready-to-use-Binary-for-BLTouch-upgrade-for-Ender-3b
+## Just copy it to microSD and that's it 
 Ready to use Binary for BLTouch upgrade for Ender 3
+
 ### Installing the BLTouch
 I used a mount that came with the BLTouch. But there are many printable mounts on Thingiverse.
 
