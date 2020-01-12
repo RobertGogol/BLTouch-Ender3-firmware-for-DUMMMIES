@@ -41,7 +41,8 @@ And Z-Axis should STOP.
 If you are able to stop z-axis movement with BLTouch and your finger - it means everything works ok, now take hex key and lover down original Z-Stop to the minimu - you don't need it any more :) 
 
 
-OK, now you are ready for Z-OFFSET calibration procedure - which is the 
+OK, now you are ready for Z-OFFSET calibration procedure - which is the last step before enjoying 
+AUTOMATIC BED LEVELING with BL TOUCH
  
 
 
