@@ -11,10 +11,11 @@ So, you installed SKR MINI E3 v1.2 and after a few weeks of completely silent pr
 
 2.Turn OFF Ender3 and stick card into slot
 
-3.Turn ON Ender3 - it will upgrade firmware by itself, nothing to select or confirm for user
+3.Turn ON Ender3 - it will upgrade firmware by itself, nothing to select or confirm by user
 
-4.Take microSD and put it into PC, if file extension is changed by printer to firmware.cur, it means that 
-this binary file is your CURrent firmware, already uploaded by Ender 3 into its mainboard.
+4.Take microSD and put it into PC, if file extension is changed by printer from "firmware.bin" to "firmware.cur", it means that this binary file is your CURrent firmware, already uploaded by Ender 3 into its mainboard.
+
+THATS ALL
 
 ![Mount](Images/mount.jpeg)
 
