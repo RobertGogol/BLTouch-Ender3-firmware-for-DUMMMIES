@@ -25,7 +25,7 @@ To check it:
 
 1.Do MOVE Z-AXIS something about 15cm (150mm) above the bed
 
-2.Select AUTO HOME - after reseting X and Y Axes, and traveling carriage above the middle of heated bed:
+2.Select AUTO HOME - after reseting X and Y axis, and traveling carriage above the middle of heated bed:
 - Ender will start lower Z-Axis (hot end will stard move down) 
 - BLTouch will turn on small blue led instead of red glow, and deploy sensing probe down
 
