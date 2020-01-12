@@ -36,6 +36,7 @@ NOW STOP IT WITH YOUR FIGER TOUCHING BLTOUCH SENSING PROBE FROM THE BOTTOM
 AGAIN STOP IT WITH YOUR FINGER! 
 
 And it Z-Axis should STOP. 
+If you are able to stop z-axis movement with BLTouch and your finger - it means everything works ok, now take hex key and lover down original Z-Stop to the minimu - you don't need it any more :) 
  
 
 
