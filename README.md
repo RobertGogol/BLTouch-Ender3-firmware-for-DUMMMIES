@@ -1,7 +1,7 @@
 ## Just copy it to microSD. Thats all. 
 Instant firmware binary for those, who upgraded Ender 3 with:
 - SKR MINI E3 v1.2 motherboard
-- BLtouch v3.1 (genuine) mounted with popular 3d printed [mount](https://www.thingiverse.com/thing:3003725) from thingiverse, or my [simplification] (https://www.thingiverse.com/thing:4097908) of it.
+- BLtouch v3.1 (genuine) mounted with popular 3d printed [mount](https://www.thingiverse.com/thing:3003725) from thingiverse, or my [simplification](https://www.thingiverse.com/thing:4097908) of it.
 
 
 So, you installed SKR MINI E3 v1.2 and after a few weeks of completely silent printing, you are confident enough to resolve socond major E3 minus - hopelessly wavy and unstable heatbed. ORIGINAL BLtouch is just mounted, connected and glowing red very promising.    
