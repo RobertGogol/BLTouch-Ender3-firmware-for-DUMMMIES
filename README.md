@@ -1,3 +1,5 @@
+![Mount](images/dummies.jpg)
+
 ## Just copy it to microSD. Thats all.
 You no need to: use any GCode command, know Marlin, Compile or edit any code, plug and manage printer by computer via usb or octoprint - you don't need to be advanced or expirienced with all above user.   
 Included "firmware.bin" file is a firmware,  
